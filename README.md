@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Shreevatsa Kawale
 
-<!--
-**shreekawale14-dev/shreekawale14-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Engineering Student (SPPU)
 
-Here are some ideas to get you started:
+💻 Frontend Developer | Java DSA Learner | Future Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- Java + Data Structures & Algorithms
+- HTML, CSS & JavaScript
+- React.js
+- Git & GitHub
+- AI Tools for Productivity
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+- 🌐 Portfolio Website
+- 📊 Expense Tracker (Coming Soon)
+- 🌦️ Weather App (Coming Soon)
+- 📚 Java DSA Repository
+
+---
+
+## 🎯 2026 Goals
+
+- Solve 1000+ DSA Problems
+- Become Frontend Freelancer
+- Learn React
+- Build Full Stack Projects
+- Crack Software Internship
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: shreekawale14@gmail.com
+
+📍 Pune, Maharashtra, India
