@@ -35,8 +35,6 @@ Computer Engineering Student | Frontend Developer | Java & DSA Learner | Future 
 ---
 ## Resume
 
-📄 Resume
-
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge)](https://shreekawale14-dev.github.io/portfolio-website/assets/resume/Shreevatsa_Kawale_Resume.pdf)
 
 # 👨‍💻 About Me
