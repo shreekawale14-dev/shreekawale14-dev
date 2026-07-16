@@ -30,6 +30,8 @@ Computer Engineering Student | Frontend Developer | Java & DSA Learner | Future 
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge)](https://shreekawale14-dev.github.io/portfolio-website/assets/resume/Shreevatsa_Kawale_Resume.pdf)
+
 </p>
 
 ---
